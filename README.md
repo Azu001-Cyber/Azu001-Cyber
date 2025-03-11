@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 # 👾 Hey there, I'm Moses (aka Momo)!  
 🔹 Self-taught Developer | Web & Cybersecurity Enthusiast  
-🔹 Passionate about backend development, AI, and drone technology  
+🔹 Passionate about backend development, ethical hacking, and drone technology  
 
 ## 🚀 What I'm Working On  
 - 🔥 Building projects with **Python, Django, JavaScript & MySQL**  
-- 🎯 Learning **Flask & Tkinter**  
+- 🎯 Learning **Technologies **  
 - 💡 Exploring **AI, cybersecurity, and drone tech**  
 
 ## ⚡ Tech Stack  
@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)  
 
 ## 🌎 Connect with Me  
-[![Instagram](https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](your-instagram-link)  
+ 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=website&logoColor=white)](your-portfolio-link)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-link)  
