@@ -40,3 +40,4 @@ Here are some ideas to get you started:
 [![Instagram](https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cybercodemomo)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=website&logoColor=white)](your-portfolio-link)  
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?Azu001-Cyber=Azu001-Cyber&show_icons=true&cache_seconds=1800)
