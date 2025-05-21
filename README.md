@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ## 📊 GitHub Stats  
-![Moses' GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)  
+![Moses' GitHub stats](https://github-readme-stats.vercel.app/api?username=Azu001-Cyber&show_icons=true&theme=tokyonight&cache_seconds=1800)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azu001-Cyber&layout=compact&theme=tokyonight&cache_seconds=1800)
+
 
 ## 🌎 Connect with Me  
 [![Instagram](https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cybercodemomo)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=website&logoColor=white)](your-portfolio-link)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?Azu001-Cyber=Azu001-Cyber&show_icons=true&cache_seconds=1800)
