@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **cybercodemomo@gmail.com**
 
-- ⚡ Fun fact **I'm always dreaming big.**
+- ⚡ Fun fact **I Like Money.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
